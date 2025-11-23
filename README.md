@@ -1,4 +1,4 @@
-# sql SuperStore Sales Dashboard – Power BI
+# SuperStore Sales Dashboard – Power BI
 
 This project features an interactive SuperStore Sales Dashboard built using Power BI, designed to deliver clear, data-driven insights into sales trends, profitability, customer behavior, and regional performance. The dashboard brings together multiple KPIs and visualizations to support better business decisions.
 
